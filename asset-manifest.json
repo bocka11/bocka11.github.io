@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d2e2163.css",
+    "main.css": "/static/css/main.35b590ad.css",
     "main.js": "/static/js/main.7c6b0d7d.js",
     "static/media/Outfit-VariableFont_wght.ttf": "/static/media/Outfit-VariableFont_wght.00c2ed1a3bf798b0da27.ttf",
     "static/media/Avatar.png": "/static/media/Avatar.c8f8b49a60b4478a9a5b.png",
     "index.html": "/index.html",
-    "main.1d2e2163.css.map": "/static/css/main.1d2e2163.css.map",
+    "main.35b590ad.css.map": "/static/css/main.35b590ad.css.map",
     "main.7c6b0d7d.js.map": "/static/js/main.7c6b0d7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d2e2163.css",
+    "static/css/main.35b590ad.css",
     "static/js/main.7c6b0d7d.js"
   ]
 }
